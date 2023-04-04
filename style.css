@@ -4,6 +4,10 @@
 }
 body {
     font-family: Arial, Arial, Helvetica, sans-serif;
+    background-image: url(../src/img/IMG_fundo.jpg); /* Imagem de fundo */
+    background-repeat: no-repeat; 
+    background-size: cover; /* Posicionamento da imagem da melhor forma */
+    
 }
 .Fundo {
     background-color: rgba(151, 147, 147, 0.743);
