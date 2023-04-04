@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    font-family: Arial, Arial, Helvetica, sans-serif;
+}
+.Fundo {
+    background-color: rgba(151, 147, 147, 0.743);
+    border-radius: 10px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 9rem;
+}
+.Cadastro {
+    color: #cf19e7;
+    margin-top: 0;
+    transform: translate(0rem, -8rem);
+    font-size: 3rem;
+}
+input {
+    padding: 17px;
+    border: none;
+    outline: none;
+    border-radius: 4px;
+    font-size: 15px;   
+    
+}
+
