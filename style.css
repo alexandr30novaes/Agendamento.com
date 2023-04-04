@@ -10,7 +10,7 @@ body {
     
 }
 .Fundo {
-    background-color: rgba(151, 147, 147, 0.743);
+    background-color: rgba(151, 147, 147, 0.822);
     border-radius: 10px;
     position: absolute;
     top: 50%;
@@ -19,7 +19,7 @@ body {
     padding: 9rem;
 }
 .Cadastro {
-    color: #19e7e7;
+    color: #ffffff;
     margin-top: 0;
     transform: translate(0rem, -8rem);
     font-size: 3rem;
