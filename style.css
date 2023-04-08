@@ -29,4 +29,14 @@ input {
     font-size: 15px;   
     
 }
+button {
+    background-color: rgba(94, 7, 175, 0.616);
+    border: none;
+    padding: 15px;
+    width: 14.2rem;
+    border-radius: 10px;
+    color: white;
+    font-size: 1rem;
+    cursor: pointer;
+}
 
