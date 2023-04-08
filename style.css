@@ -4,9 +4,7 @@
 }
 body {
     font-family: Arial, Arial, Helvetica, sans-serif;
-    background-image: url(../src/img/IMG_fundo.jpg); /* Imagem de fundo */
-    background-repeat: no-repeat; 
-    background-size: cover; /* Posicionamento da imagem da melhor forma */
+    background-color: rgba(255, 0, 200, 0.315)
     
 }
 .Fundo {
@@ -19,7 +17,7 @@ body {
     padding: 7rem;
 }
 .Cadastro {
-    color: #ff008c;
+    color: rgba(255, 0, 200, 0.315);
     transform: translate(0rem, -5rem);
     font-size: 3rem;
 }
