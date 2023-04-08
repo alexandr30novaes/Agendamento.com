@@ -38,5 +38,11 @@ button {
     color: white;
     font-size: 1rem;
     cursor: pointer;
+    transition: all 0.7s;
 }
+    button:hover {
+        background-color: rgba(247, 2, 165, 0.527);
+        transition: all 0.7s;
+        
+    }
 
