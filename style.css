@@ -46,3 +46,26 @@ button {
         
     }
 
+@media only screen and  (max-width: 50px) {
+    .Fundo {
+        padding: 1rem;
+    }
+}
+@media only screen and  (max-width: 375px) {
+    .Fundo {
+        padding: 1rem;
+    }
+    .Cadastro {
+        transform: translate(0%, -12%);
+    }
+
+}
+@media only screen and  (max-width: 414px) {
+    .Fundo {
+        padding: 2rem;
+    }
+    .Cadastro {
+        transform: translate(0%, -40%);
+    }
+
+}
